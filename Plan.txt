@@ -1,0 +1,1 @@
+HOSVD --> Raspberry Pi with Pi Cam --> Extract emotion vectors after a week --> Learn emotions --> Set Mood lighting based on emotion --> ?
