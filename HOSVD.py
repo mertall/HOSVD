@@ -10,4 +10,4 @@ def HOSVD(A):
         [U[k],Sig,V] = svd(C)
         t_U(k) = numpyu.transpose(U(k))
         S = numpy.tensordot(S,t_U(k),k)
-    return S, U
+    return S, U  
